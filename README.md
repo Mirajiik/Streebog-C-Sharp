@@ -1,1 +1,1 @@
-# Streebog-C-Sharp
+# Streebog C#
